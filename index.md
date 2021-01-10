@@ -1,38 +1,37 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Nenesu/Presentation-GitPod)
+<header>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
+</header>
 
-# GitPod
+## Site réalisé par DERRIVES Angèle et HAMIDI Ines
+----------------------------------------------------------------------------------
 
-##### Site réalisé par DERRIVES Angèle et HAMIDI Ines
----------------------------------------------------------------------
+## Qu'est ce que GitPod ?
 
-#### Qu'est ce que GitPod ?
+### * Un nouvel outil créé par Sven Efftinge
 
-###### * Un nouvel outil créé par ...
+GitPod, conçu par Sven Efftinge, est un éditeur en ligne pour les développeurs qui permet de coder des projets rapidement 
+et efficacement et qui est fait pour organiser à sa manière son espace de travail.
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. 
-It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. 
-Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, 
-looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, 
+### * Un outil relié à github
 
-###### * Un outil relié à github
+Gitpod est en collaboration avec GitLab, GitHub et BitBucket ce qui permet de récupérer des projets de l’un à l’autre et,
+ grâce à sa configuration, fait gagner un temps considérable.
 
-and going through the cites of the word in classical literature, discovered the undoubtable source. 
-Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" 
-(The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, 
-very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", 
-comes from a line in section 1.10.32.
+## Comment utiliser GitPod ?
 
+### * Le paramétrage  
+On peut se servir de GitPod à partir de l’application ou simplement du navigateur ; une extension est d’ailleurs disponible et très pratique.
+ L’espace de travail contient le code source, un shell, le docker, l’EDI qui vous convient et le thème que vous avez choisit. 
+Il sert essentiellement pour des projets courts qui sont utiles sur le moment puis sont oubliés une fois finis.
 
-#### Comment utiliser GitPod ?
+### * L'interface
 
-Contrary to popular belief, Lorem Ipsum is not simply random text. 
-It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. 
-Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, 
-looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, 
+ ![GitPod's interface](interface.png)
 
-#### Pourquoi utiliser GitPod ?
+## Pourquoi utiliser GitPod ?
 
-and going through the cites of the word in classical literature, discovered the undoubtable source. 
-Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" 
-(The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, 
-very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", 
+Gitpod est un éditeur gratuit auto-hébergée très simple d’utilisation. 
+Il a une documentation[https://www.gitpod.io/docs/] très claire et utile pour découvrir et utiliser cet outil.
+De part sa configuration, les projets effectués sur GitPod se mettent en place rapidement : une base déjà faite pour vos projets est accessible. 
+Il est fait de manière à faciliter le travail du développeur grâce à l’Environnement de Développement Intégré simple et efficace. 
+Vous pouvez également travailler en collaboration sur vos projets, ce qui est pratique pour le travail en équipe.
