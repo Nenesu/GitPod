@@ -29,7 +29,7 @@ looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum p
 ## Pourquoi utiliser GitPod ?
 
 Gitpod est un éditeur gratuit auto-hébergée très simple d’utilisation. 
-Il a une documentation[https://www.gitpod.io/docs/] très claire et utile pour découvrir et utiliser cet outil.
+Il a une [documentation](https://www.gitpod.io/docs/) très claire et utile pour découvrir et utiliser cet outil.
 De part sa configuration, les projets effectués sur GitPod se mettent en place rapidement : une base déjà faite pour vos projets est accessible. 
 Il est fait de manière à faciliter le travail du développeur grâce à l’Environnement de Développement Intégré simple et efficace. 
 Vous pouvez également travailler en collaboration sur vos projets, ce qui est pratique pour le travail en équipe.
