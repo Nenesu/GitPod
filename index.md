@@ -1,17 +1,6 @@
-<head>
-	<meta charset="UTF-8" />
-
-	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<meta name ="description" content="Ce site est mon projet pour l'année 2020">
-	<meta name="keywords" content="TD,ines,hamidi,étudiant,iut,aix,marseille,aix-en-provence,informatique,gitpod, angele, derrives">
-	<meta name="author" content="Ines HAMIDI, Angele DERRIVES">
-
-	
+<head>	
 	<link rel="icon" type="image/png" href="favicon.png">
-	<link rel="icon" href="favicon.png"/>
-
-	<title>GitPod</title>
-
+	<link rel="icon" href="favicon.ico"/>
 </head>
 
 ## Site réalisé par DERRIVES Angèle et HAMIDI Ines
