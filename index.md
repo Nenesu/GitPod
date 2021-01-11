@@ -1,6 +1,9 @@
 <head>	
 	<link rel="icon" type="image/png" href="favicon.png">
 	<link rel="icon" href="favicon.ico"/>
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <link rel="shortcut icon" sizes="196x196" href="favicon.png">
+     <link rel="apple-touch-icon" href="favicon.png">
 </head>
 
 ## Site réalisé par DERRIVES Angèle et HAMIDI Ines
